@@ -22,5 +22,8 @@ Our solution? Create a scalable marking tool that can provide feedback digitally
 ## Labeling
 
 For the OCR technology to identify ticks on a paper we first need to label an exisiting dataset.
-We did this through AWS SageMaker. 
+We did this through **AWS SageMaker**.
+Amazon SageMaker is a cloud machine-learning platform, it enables developers to create, train, and deploy machine-learning models in the cloud.
+Using SageMaker we were able to simplify the labeling process greatly, by intuitevly labeling the dataset to get it ready for training.
+Below is a walk-through video on how to use **AWS SageMaker Ground Truth** to label a dataset.
 [![SageMaker Labeling Walkthrough]](https://www.youtube.com/watch?v=9zGM8FGYhok)
