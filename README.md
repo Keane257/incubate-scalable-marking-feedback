@@ -23,4 +23,4 @@ Our solution? Create a scalable marking tool that can provide feedback digitally
 
 For the OCR technology to identify ticks on a paper we first need to label an exisiting dataset.
 We did this through AWS SageMaker. 
-[![What is an API]](https://youtu.be/Eeg1DEeWUjA)
+[![SageMaker Labeling Walkthrough]](https://www.youtube.com/watch?v=9zGM8FGYhok)
