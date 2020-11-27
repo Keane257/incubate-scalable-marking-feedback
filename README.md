@@ -40,7 +40,7 @@ The feedback will be in a dashboard form as well as in google sheets. The dashbo
 
 **Sample of Possible Dashboard**
 
-![dashboard](dashboard.PNG)
+![dashboard](resources/dashboard.PNG)
 
 # Deployment
 In the Future once this has had more time in development, we belive that this concept could greatly improve the classroom experience for the teachers and students alike. It will be a very useful tool to help teachers save time and focus on the students and their needs. It will also help parents to get a deeper understanding of their childs/childrens needs and performance in the classroom.
