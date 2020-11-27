@@ -47,6 +47,8 @@ In the Future once this has had more time in development, we belive that this co
 
 # The Team
 * Monica Farrell (Team Lead)
-* Keane Byrne
-* Hester Stofberg
-* Kgaogelo Mamadi
+* Keane Byrne (Dev Team)
+* Hester Stofberg (Dev Team)
+* Kgaogelo Mamadi (Dev Team)
+* Karin Louw (Support)
+* Maddy Muir (Support)
