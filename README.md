@@ -34,6 +34,16 @@ The output of a SageMaker labeling process in this case was a JSON file.
 It is stored in a desired S3 bucket. Once we recieve this output, the dataset is now ready to be trained using the SageMaker training Jobs.
 After the data has been trained to identify (and count) the ticks, we then need to Export the feedback to google sheets.
 
+### How to save json outputs to google sheet
+
+1. Clone the repo
+`git clone https://github.com/Keane257/incubate-scalable-marking-feedback.git`
+2. Run quickstart in a terminal
+`python quickstart.py`
+3. Sign into google drive using credentials
+4. A success message will pop up and the marks will be stored as a csv file in google drive
+5. Open the csv file in google sheets
+
 ## Feedback
 
 The feedback will be in a dashboard form as well as in google sheets. The dashboard was made with **PowerBI** and gives a overview of both class and individual stats to help the teachers identify focus areas and at risk Students. This will help teachers greatly in both curating their own classrooms to fit what is need most by the students, and to also give an analysis report to anyone (GradeHead/Parent/Principle) that wishes to have kore information.
