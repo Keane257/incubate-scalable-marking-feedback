@@ -1,0 +1,117 @@
+[
+  {
+    "boundingBox": {
+      "boundingBoxes": [
+        {
+          "height": 28,
+          "label": "Tick",
+          "left": 119,
+          "top": 115,
+          "width": 32
+        },
+        {
+          "height": 26,
+          "label": "Tick",
+          "left": 165,
+          "top": 116,
+          "width": 30
+        },
+        {
+          "height": 34,
+          "label": "Tick",
+          "left": 207,
+          "top": 121,
+          "width": 35
+        },
+        {
+          "height": 24,
+          "label": "Tick",
+          "left": 170,
+          "top": 146,
+          "width": 30
+        },
+        {
+          "height": 26,
+          "label": "Tick",
+          "left": 124,
+          "top": 247,
+          "width": 36
+        },
+        {
+          "height": 23,
+          "label": "Tick",
+          "left": 160,
+          "top": 249,
+          "width": 33
+        },
+        {
+          "height": 36,
+          "label": "Tick",
+          "left": 211,
+          "top": 246,
+          "width": 45
+        },
+        {
+          "height": 35,
+          "label": "Tick",
+          "left": 225,
+          "top": 349,
+          "width": 50
+        },
+        {
+          "height": 36,
+          "label": "Tick",
+          "left": 384,
+          "top": 363,
+          "width": 50
+        },
+        {
+          "height": 39,
+          "label": "Tick",
+          "left": 228,
+          "top": 436,
+          "width": 65
+        },
+        {
+          "height": 43,
+          "label": "Tick",
+          "left": 191,
+          "top": 511,
+          "width": 62
+        },
+        {
+          "height": 28,
+          "label": "Tick",
+          "left": 178,
+          "top": 702,
+          "width": 44
+        },
+        {
+          "height": 27,
+          "label": "Tick",
+          "left": 286,
+          "top": 715,
+          "width": 59
+        },
+        {
+          "height": 19,
+          "label": "Tick",
+          "left": 207,
+          "top": 726,
+          "width": 37
+        },
+        {
+          "height": 49,
+          "label": "Tick",
+          "left": 201,
+          "top": 799,
+          "width": 63
+        }
+      ],
+      "inputImageProperties": {
+        "height": 877,
+        "width": 617
+      }
+    }
+  }
+]
